@@ -1,0 +1,33 @@
+body{
+    background: #3097D1;
+    
+}
+
+.navigation{
+    padding-left: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.profile-info{
+    background-color: #ffffff;
+    margin-top: 10.5%;
+    padding-left: 12%;
+    margin-left: -55%;
+    margin-right: 30%;
+    box-shadow: 4px 16px 32px;
+}
+.upper-profile{
+    background-color: forestgreen;
+    margin-left: -11%;
+    padding-left: 5%;
+    padding-top: 45%;
+}
+.lower-profile{
+      margin-top: 45%;
+}
+.profile-pic{
+  border-radius: 100%;
+  background-color: #3097D1;
+  
+}
